@@ -88,6 +88,7 @@ console.log(typeof nodefinida)
 
 // 9. A continuación, modifica los valores de las constantes
 
+<<<<<<< HEAD
 // pais ="mexico"
 // telefono = 4154567
 // mayorDedad = false
@@ -99,3 +100,6 @@ console.log(typeof nodefinida)
 
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
+=======
+// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
+>>>>>>> af1c97bc2ac92b5c42ce9a29a8ebd234e226ee90
