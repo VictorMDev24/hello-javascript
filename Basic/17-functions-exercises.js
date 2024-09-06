@@ -4,10 +4,6 @@ Mapas, bucles y funciones
 https://www.youtube.com/live/xg1GeHKiNzU?si=oiWHK8bDTZ1c98hF&t=885
 */
 
-const amEating = true
-
-amEating  ? console.log("comiendo pizza") : console.log("haciendo ejercicio")
-
 // NOTA: Explora diferentes sintaxis de funciones para resolver los ejercicios
 
 // 1. Crea una función que reciba dos números y devuelva su suma
